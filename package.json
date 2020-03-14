@@ -1,0 +1,19 @@
+{
+  "name": "WEB_CSS",
+  "version": "1.0.0",
+  "description": "display:grid를 부모의 스타일에 주고, 자식을 자동으로 grid 값에 넣어 준다.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanKwon/WEB_CSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EthanKwon/WEB_CSS/issues"
+  },
+  "homepage": "https://github.com/EthanKwon/WEB_CSS#readme",
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
